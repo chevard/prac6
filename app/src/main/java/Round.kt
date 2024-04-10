@@ -1,0 +1,1 @@
+data class Round(val q: String, val a1: String,  val a2: String, val a3: String, val a4: String, val rightId: Int, val value: Int)
